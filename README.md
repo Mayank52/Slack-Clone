@@ -1,6 +1,6 @@
 # Slack-Clone
 
-### Tech Learned and Used:
+### Tech Used:
 - React.js
 - React-Redux
 - Redux Hooks
