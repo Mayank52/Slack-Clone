@@ -2,10 +2,11 @@
 
 ### Tech Used:
 - React.js
-- React-Redux
+- React Redux
 - Redux Hooks
 - Firebase
 - Firebase Authentication
-- Firebase Hooks
+- React Firebase Hooks
 - Firestore
+- Styled Components
 - Material UI
